@@ -15,7 +15,7 @@ ___
 
 > _greater_than_ is a quote 
 
-["Finally.. A Worthy Opponent"](www.google.com "Link")
+["Finally.. A Worthy Opponent"](https://www.google.com "Link")
 
 * _list_item_
 * _list_
